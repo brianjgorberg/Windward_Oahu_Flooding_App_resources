@@ -1,0 +1,5 @@
+﻿Flood,Stream_height_ft,colors
+min,0,green
+minor,7,yellow
+major,10.8,red
+max,16,red
