@@ -1,0 +1,5 @@
+RF_threshold,Precipitation_in,color
+min,0,green
+2_year,2.8,yellow
+10_year,4.1,red
+max,7.6,red
